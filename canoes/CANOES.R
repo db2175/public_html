@@ -1,10 +1,6 @@
 # DEPENDENCIES
 #    nnls, Hmisc, mgcv, plyr
 
-# comment and add error checking for genotype function
-# fill out Test--should write xcnv file
-# should also do genotyping, genotyping should do error checking
-# should plot all CNVs to pdf
  
 Test <- function(cluster3.counts){
   # load counts file
